@@ -2,7 +2,7 @@
 Elaboration d'un boitier dans lequel est caché un lecteur RFID pour enregistrer automatiquement des cartes.
 
 
-# I-	Conception électroniquessssss 
+# I-	Conception électroniques 
 
 
 Pour concevoir le projet, j’ai opté pour l’utilisation d’une carte Nodemcu car je disposais d’un câble micro USB C plus petit et plus souple que celui d’une carte Arduino Nano.
